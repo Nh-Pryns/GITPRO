@@ -1,2 +1,0 @@
-sAMOOO
-pyy.txt
